@@ -1,0 +1,5 @@
+PuertoVaras;Cultural;25000
+VolcanOsorno;Aventura;60000
+RutaGastronomica;Gastronomico;50000
+Frutillar;Cultural;20000
+NavegacionLlanquihue;Lacustre;25000
